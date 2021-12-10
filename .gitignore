@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+Docs/
 .Python
 build/
 develop-eggs/
@@ -109,6 +110,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+UnsplashDownloader/
 
 # Spyder project settings
 .spyderproject
